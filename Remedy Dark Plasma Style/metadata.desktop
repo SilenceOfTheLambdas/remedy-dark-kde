@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Remedy-dark
+X-KDE-PluginInfo-Author=Callum-James Smith
+X-KDE-PluginInfo-Email=sudo-make99@protonmail.com
+X-KDE-PluginInfo-Name=Remedy-Dark
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma-Colourscheme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
